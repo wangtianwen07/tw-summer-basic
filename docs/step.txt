@@ -1,0 +1,7 @@
+maven插件支持jdk1.8 http://maven.apache.org/plugins/index.html;
+pom.xml maven-compile-plugin插件
+
+springboot
+https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/html/
+https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/html/using-spring-boot.html#using-boot Dependency Management
+pom.xml springboot相关依赖
